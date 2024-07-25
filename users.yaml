@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: lt-jshipley
+spec:
+  profile:
+    displayName: Joey Shipley
+    email: jshipley@leantechniques.com
+  memberOf: [losteam]
+---
