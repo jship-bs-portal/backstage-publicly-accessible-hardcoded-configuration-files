@@ -9,3 +9,13 @@ spec:
     email: jshipley@leantechniques.com
   memberOf: [losteam]
 ---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dbrannon-lt
+spec:
+  profile:
+    displayName: David Brannon
+    email: dbrannon@leantechniques.com
+  memberOf: [losteam]
+---
